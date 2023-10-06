@@ -12,8 +12,8 @@
   ## Credits
   
 
-  ## License
-    This project is licensed under the [MIT](LICENSE) license.
+  ## License 
+ ![GitHub license](https://img.shields.io/badge/license-GNU GPL v3-blue.svg)(- [License](#license))
 
   ## Features
   
