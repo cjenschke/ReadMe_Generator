@@ -11,9 +11,9 @@
 
   ## Credits
   
-
-  ## License 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](#license)(https://opensource.org/licenses/MIT)
+  
+  ## License
+  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
   ## Features
   
