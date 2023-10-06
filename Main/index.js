@@ -7,53 +7,53 @@ const generateMarkdown = require("./utilities/generateMarkdown");
 const questions = [
   {
     type: "input",
-    name: "Title",
+    name: "title",
     message: "What is the title of the project?",
   },
   {
     type: "input",
-    name: "Description",
+    name: "description",
     message: "Give a short description of your project.",
   },
   {
     type: "input",
-    name: "Installation",
+    name: "installation",
     message: "What is required to install your project?",
   },
   {
     type: "input",
-    name: "Usage",
+    name: "usage",
     message: "How do you use your project?",
   },
   {
     type: "input",
-    name: "Credits",
+    name: "credits",
     message: "List any collaborators on your project.",
   },
   {
     type: "input",
-    name: "License",
+    name: "license",
     message: "Choose license for project.",
     choices: ["MIT", "Apache 2.0", "GNU GPL v3", "None"],
   },
   {
     type: "input",
-    name: "Badges",
+    name: "badges",
     message: "List badges for project.",
   },
   {
     type: "input",
-    name: "Features",
+    name: "features",
     message: "List features for project.",
   },
   {
     type: "input",
-    name: "Contributing",
+    name: "contributing",
     message: "How can others contribute to your project?",
   },
   {
     type: "input",
-    name: "Tets",
+    name: "tests",
     message: "How can your project be tested?",
   },
   {
