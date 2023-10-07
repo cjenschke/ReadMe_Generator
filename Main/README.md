@@ -35,4 +35,4 @@
   
 
   ## Questions
-  If you have questions, you can contact me at [cimarron13@mac.com](mailto:cimarron13@mac.com) or <a href="https://github.com/cjenschke">GitHub</a>).
+  If you have questions, you can contact me at [](mailto:) or <a href="https://github.com/">GitHub</a>.
