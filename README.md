@@ -14,15 +14,17 @@
   - [Questions](#questions)
 
   ## Installation 
-  npm install inquirer@8.2.4
+  ```npm install inquirer@8.2.4```
 
   ## Usage
-  To use the application, run node index.js on the command line.  You will then be prompted to answeer quetions about your project.
+  To use the application, run ```node index.js``` on the command line.  You will then be prompted to answeer quetions about your project.
 
   ## Credits
   David Gray GitHub grayd500
+  Xpert Learning Assistant
+  
   ### Starter Code
-  Supplies by Coding Bootcamp https://github.com/coding-boot-camp/potential-enigma
+  Supplied by Coding Bootcamp https://github.com/coding-boot-camp/potential-enigma
   
   
   ## License
@@ -31,7 +33,7 @@
 
   ## Tests
   From the command line run
-    npm test
+    ```npm test```
   
 
   ## Questions
