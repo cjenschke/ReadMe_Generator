@@ -1,5 +1,5 @@
 # README GENERATOR
-
+![Screenshot](./Main/images/Screenshot%202023-10-06%20at%2010.55.54 PM.png)
   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
