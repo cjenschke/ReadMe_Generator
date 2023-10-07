@@ -1,5 +1,6 @@
 # README GENERATOR
 ![Screenshot](./Main/images/Screenshot%202023-10-06%20at%2010.55.54 PM.png)
+![Screenshot](./Main/images/Screenshot%202023-10-07%20at%203.39.25 PM.png)
   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
@@ -20,8 +21,8 @@
   To use the application, run ```node index.js``` on the command line.  You will then be prompted to answeer quetions about your project.
 
   ## Credits
-  David Gray GitHub grayd500
-  Xpert Learning Assistant
+  - David Gray GitHub grayd500
+  - Xpert Learning Assistant
   
   ### Starter Code
   Supplied by Coding Bootcamp https://github.com/coding-boot-camp/potential-enigma
