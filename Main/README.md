@@ -1,28 +1,29 @@
-# big project
+# 
 
   ## Description
-  akldjfklafjkaaaakljadfaslaslgahgas;khga;gh;aha;dkhadghadhgakghahg;kah;kadghda;ghahaf;gh
+  
 
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
-  - [Lisence](#license)
+  - [License](#license)
   - [Features](#features)
   - [Contributing](#contibuting)
   - [Tests](#tests)
+  - [Questions](#questions)
 
   ## Installation 
-  a computer
+  
 
   ## Usage
-  with your hands
+  
 
   ## Credits
-  pete, wayne
+  
   
   ## License
-  [![GitHub license](https://img.shields.io/badge/license-GNU%20GPL%20v3-blue.svg)]()
+  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
   ## Features
   
@@ -33,8 +34,5 @@
   ## Tests
   
 
-  ## GitHub
-  
-
-  ## email
-  
+  ## Questions
+  If you have questions, you can contact me at [cimarron13@mac.com](mailto:cimarron13@mac.com) or <a href="https://github.com/cjenschke">GitHub</a>).
