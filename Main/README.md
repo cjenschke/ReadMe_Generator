@@ -1,9 +1,9 @@
-# README GENERATOR
+# The Big Project
 
   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  Simple README generator that provides an easy way to produce a high quality README.md file.
+  Project so big it will make your head explode.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -16,25 +16,25 @@
   - [Questions](#questions)
 
   ## Installation 
-  npm install inquirer@8.2.4
+  inquirer 8.2.4
 
   ## Usage
-  To use the application, run node index.js on the command line.  You will then be prompted to answeer quetions about your project.
+  Run using node
 
   ## Credits
-  
+  some other people
   
   ## License
   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
   ## Features
-  
+  readme files
 
   ## Contributing
-  
+  paypal
 
   ## Tests
-  npm test from the command line.
+  node test
 
   ## Questions
-  If you have questions, you can contact me at [cimarron13@mac.com](mailto:cimarron13@mac.com) or <a href="https://github.com/cjenchke">GitHub</a>.
+  If you have questions, you can contact me at [me@mail.com](mailto:me@mail.com) or <a href="https://github.com/cjenschke">GitHub</a>.
