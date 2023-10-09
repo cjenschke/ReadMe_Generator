@@ -1,12 +1,9 @@
-
 function renderLicenseBadge(license) {
   if (!license || license === "None") return "";
   const licenseURL = renderLicenseLink(license);
   const encodedLicense = encodeURIComponent(license);
   return `[![GitHub license](https://img.shields.io/badge/license-${encodedLicense}-blue.svg)](${licenseURL})`;
-  
 }
-
 
 function renderLicenseLink(license) {
   if (license === "MIT") {
@@ -19,7 +16,6 @@ function renderLicenseLink(license) {
     return "";
   }
 }
-
 
 function generateMarkdown(data) {
   let licenseBadge = "";
@@ -65,8 +61,9 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## Questions
-  If you have questions, you can contact me at [${data.email}](mailto:${data.email}) or <a href="https://github.com/${data.github}">GitHub</a>.`;
-
+  If you have questions, you can contact me at [${data.email}](mailto:${
+    data.email
+  }) or <a href="https://github.com/${data.github}">GitHub</a>.`;
 }
 
 module.exports = generateMarkdown;
